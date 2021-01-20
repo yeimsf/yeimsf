@@ -10,6 +10,8 @@
 [<img align="left" alt="youssef fakhry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/youssef-fakhry-983399194/)
 
 <br />
+<br />
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeimsf&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
